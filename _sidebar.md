@@ -1,5 +1,5 @@
-- ONE
-  - [ONE](demo/test.md)
-- DEMO
-  - [TEST](demo/test.md)
-- [Changelog](changelog.md)
+* ONE
+  * [ONE](demo/test.md)
+* DEMO
+  * [TEST](demo/test.md)
+* [Changelog](changelog.md)
