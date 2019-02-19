@@ -1,6 +1,5 @@
+* 后端
+  * [并发](backend/java/并发.md)
 * 书单
-  * [2018](books/2018.md)
-* DEMO
-  * [TEST](demo/test.md)
-  * [TEST2](demo/c_programing.md)
+  * [书单](books/reading_list.md)
 * [Changelog](changelog.md)
