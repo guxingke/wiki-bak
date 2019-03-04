@@ -2,8 +2,10 @@
   * [并发](backend/java/concurrency.md)
   * [中间件](backend/middle-ware/middle-ware.md)
   * [Linux](backend/linux/linux.md)
+  * [网络](backend/networking/networking)
   * [DevOps](backend/devops/devops.md)
   * [架构设计](backend/architecture-design/design.md)
+  * [系统性能](backend/system-performance/system-performance)
   * [质量保证](backend/quality-assurance/qa.md)
   * [工具](backend/tooling/tooling.md)
 * 书单
