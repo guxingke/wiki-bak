@@ -1,5 +1,8 @@
 * 后端
+  * [Java Core](backend/java/core.md)
+  * [常用框架](backend/java/framework.md)
   * [并发](backend/java/concurrency.md)
+  * [JVM](backend/jvm/jvm.md)
   * [中间件](backend/middle-ware/middle-ware.md)
   * [Linux](backend/linux/linux.md)
   * [网络](backend/networking/networking)
